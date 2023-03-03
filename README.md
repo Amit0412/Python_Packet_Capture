@@ -18,6 +18,10 @@ https://pypi.org/project/pcapy/
 
 #Output
 
+#List of Interfaces code running.
+![Uby  Running  - Oracle VM VirtualBox 3_2_2023 11_37_37 PM](https://user-images.githubusercontent.com/59620280/222637818-547f7608-9954-4c0d-864b-c710c28ff844.png)
+
+
 ![Uby  Running  - Oracle VM VirtualBox 3_2_2023 11_37_51 PM](https://user-images.githubusercontent.com/59620280/222637505-ee315bf1-aa8e-475b-b7e5-aedb434c7655.png)
 
 

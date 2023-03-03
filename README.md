@@ -1,5 +1,18 @@
-# Python_Packet_Capture
+# Python_Packet_Capture:
 
 This is the repository which contains how to just capture any network packet by using Python programming language.
-For this we have used "PCAP" package which is present there in python programming.The operating system on which the
+For this we have used "PCAPY" package which is present there in python programming.The operating system on which the
 following code was ran is Linux.
+
+# PCAPY Package:
+
+Pcapy is a Python extension module that enables software written in Python to access the routines from the pcap packet capture library.
+
+From libpcap’s documentation: “Libpcap is a system-independent interface for user-level packet capture. Libpcap provides a portable framework for low-level network monitoring. Applications include network statistics collection, security monitoring, network debugging, etc.”
+
+https://pypi.org/project/pcapy/
+
+# Explaination of code:
+
+This repo contains "List_of_interfaces.py" python file which basically gives us the interfaces list connected to our
+system.

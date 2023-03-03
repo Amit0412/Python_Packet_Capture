@@ -1,3 +1,7 @@
+In order to run this code we had created a Linux based Virtual machine using virtual box on temporary basis.
+
+
+
 # Python_Packet_Capture:
 
 This is the repository which contains how to just capture any network packet by using Python programming language.
@@ -12,7 +16,6 @@ From libpcap’s documentation: “Libpcap is a system-independent interface for
 
 https://pypi.org/project/pcapy/
 
-# Explaination of code:
 
-This repo contains "List_of_interfaces.py" python file which basically gives us the interfaces list connected to our
-system.
+
+

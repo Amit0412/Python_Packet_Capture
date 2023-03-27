@@ -16,7 +16,7 @@ cap=pcapy.open_live(inf,65536,1,0)
 while 1:
         (header,payload)=cap.next()
         
-        #layer header 
+        #layer header .
         l2hdr=payload[:14]
         
         #layer data
